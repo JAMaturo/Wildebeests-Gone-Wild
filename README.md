@@ -7,10 +7,10 @@ The only prerequisite for running this program is Python 3, available at <a href
 
 ## Usage
 
-Simply run MainFile.py from a command shell.
+Simply run main.py from a command shell.
 
 Example:
 
 ```{r, engine='bash', count_lines}
-$ python MainFile.py
+$ python main.py
 ```
